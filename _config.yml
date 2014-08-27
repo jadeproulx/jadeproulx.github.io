@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Jade Proulx
 locale: en_US
-description: Describe your website here.
+description: This is Jade Proulx's personal website.
 logo: site-logo.png
 search: true
-url: 
+url: www.jadeproulx.com
 
 
 # Jekyll configuration
@@ -32,15 +32,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Jade Proulx
+  avatar: Jade_Proulx_Headshot.png
+  email: proulxjade@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: @JadeProulx #username
   facebook: #username
-  github: #username
+  github: jadeproulx #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jadeproulx #username
   instagram: #username
   flickr: #username
   tumblr: #username
