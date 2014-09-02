@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Jade
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Jade_wide_image.jpg
+  credit: Alex Litoiu
+  creditlink: 
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+I am a Masters student in Food Science at Cornell University. My current work involves developing novel strategies for the surface decontamination of foods using non-thermal technologies. I have work experience in the food industry, having previously interned in both R&D and QC at two different flavour companies. I have also been involved in numerous food-related entrepreneurial projects such as [co-founding an exclusive restaurant recommendation app](http://atl.us), organizing a Gastronomy & Science symposium, and participating to [food product development competitions](http://www.news.cornell.edu/stories/2014/07/snappy-popples-cracks-first-place-national-food-expo). My interests lie at the interface between **technology**, **food**, **sustainability**, and **entrepreneurship**.
 
 ## So Simple Theme is all about:
 
