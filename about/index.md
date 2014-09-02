@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Jade Proulx is a Masters Student in Food Science at Cornell University."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: 
