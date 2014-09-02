@@ -3,7 +3,7 @@
 title: Jade Proulx
 locale: en_US
 description: This is Jade Proulx's personal website.
-logo: Jade face.png
+logo: Jade2.png
 search: true
 url: 
 
@@ -39,6 +39,7 @@ owner:
   twitter: JadeProulx #username
   facebook: #username
   github: jadeproulx #username
+  goodreads: #https://www.goodreads.com/review/list/12267780
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: jadeproulx #username
   instagram: #username
