@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Jade Proulx
-  avatar: Jade_Proulx_Headshot.png
+  avatar: Jade1.png
   email: proulxjade@gmail.com
   disqus-shortname:
   twitter: JadeProulx #username
