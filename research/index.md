@@ -4,7 +4,7 @@ title: Research
 excerpt: "An overview of my research experience."
 modified: 
 image: 
-  feature: cornell-labspace.jpg
+  feature: cornell-stocking.jpg
   credit: Jeff Goldberg / Esto 
   creditlink: 
   thumb: jade-logo.png
