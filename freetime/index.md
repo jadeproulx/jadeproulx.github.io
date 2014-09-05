@@ -19,7 +19,7 @@ image:
 
 ## Thought for Food Challenge 
 
-## Atlus iPhone App
+## Atlus Inc.
 
 ## McGill Gastronomy & Science Symposium 
 
