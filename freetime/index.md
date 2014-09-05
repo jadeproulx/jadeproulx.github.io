@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Life is more fun when it is full of projects.
+title: What I do in my free time
 excerpt: "This is what I like to do in my free time."
 
 modified: 
