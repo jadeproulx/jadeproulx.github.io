@@ -6,7 +6,8 @@ modified:
 excerpt:
 image:
   feature: 
-page.external_url: {% if page.external_url == true %} {<a href>= {% page.external_url %} {%endif%}
+page.external_url: {% if page.external_url %}<a href= {% page.external_url %}</a>{%endif%}
+
 ---
 
 
