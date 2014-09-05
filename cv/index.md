@@ -6,7 +6,7 @@ modified:
 excerpt:
 image:
   feature:
-external_url: "https://dl.dropboxusercontent.com/u/51364198/CV_Jade_Proulx.pdf"
+external_url: https://dl.dropboxusercontent.com/u/51364198/CV_Jade_Proulx.pdf
 ---
 
 
