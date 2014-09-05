@@ -2,6 +2,7 @@
 layout: page
 title: Personal Projects
 excerpt: "This is what I like to do in my free time."
+author: jade_proulx
 modified: 
 image: 
   feature: jade-wide-10.jpg
