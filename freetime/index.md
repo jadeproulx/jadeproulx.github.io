@@ -5,7 +5,7 @@ excerpt: "This is what I like to do in my free time."
 
 modified: 
 image: 
-  feature: white.png
+  feature: freetime.jpg
   credit:  
   creditlink: 
   thumb: jade-logo.png
