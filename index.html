@@ -4,7 +4,7 @@ title: About me
 excerpt: "Jade Proulx is a Masters Student in Food Science at Cornell University."
 modified: 2014-08-08T19:44:38.564948-04:00
 image: 
-  feature: jade-wide-9.jpg
+  feature: jade-wide-10.jpg
   credit:  Alex Litoiu 
   creditlink: 
   thumb: jade-logo.png
