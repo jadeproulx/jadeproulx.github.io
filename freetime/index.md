@@ -13,10 +13,14 @@ image:
 
 ## IFTSA & Mars Product Development Competition 
 
+## Learning Code
+
 ## Roger Smith FoodTech Conference 
 
 ## Thought for Food Challenge 
 
+## Atlus iPhone App
+
 ## McGill Gastronomy & Science Symposium 
 
-## Learning how to code
+
