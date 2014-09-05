@@ -12,6 +12,9 @@ image:
 ---
 
 ## IFTSA & Mars Product Development Competition
+
 ## Roger Smith FoodTech Conference 
+
 ## Thought for Food Challenge
+
 ## McGill Gastronomy & Science Symposium
