@@ -5,7 +5,7 @@ excerpt: "An overview of my research experience."
 modified: 
 image: 
   feature: labbooks.jpg
-  credit: Jeff Goldberg / Esto 
+  credit:  
   creditlink: 
   thumb: jade-logo.png
 ---
