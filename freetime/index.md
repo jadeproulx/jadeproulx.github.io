@@ -1,6 +1,5 @@
 ---
 layout: page
-author: jade_proulx
 title: Personal Projects
 excerpt: "This is what I like to do in my free time."
 
@@ -12,7 +11,7 @@ image:
   thumb: jade-logo.png
 ---
 
-IFTSA & Mars Product Development Competition
-Roger Smith FoodTech Conference 
-Thought for Food Challenge
-McGill Gastronomy & Science Symposium
+## IFTSA & Mars Product Development Competition
+## Roger Smith FoodTech Conference 
+## Thought for Food Challenge
+## McGill Gastronomy & Science Symposium
