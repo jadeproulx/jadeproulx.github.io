@@ -6,5 +6,5 @@ modified:
 excerpt:
 image:
   feature: 
-external_url: {{ {% if page.external_url %}<a href="{{ page.external_url }}"></a>{% endif %} }}
+external_url: {% if page.external_url %}<a href="{{ page.external_url }}"></a>{% endif %} 
 ---
