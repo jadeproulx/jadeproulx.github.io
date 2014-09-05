@@ -10,6 +10,12 @@ image:
   thumb: jade-logo.png
 ---
 
-## Publication no.1
-## Publication no.2
-## Publication no.3
+## Graduate Research Experience
+Pulsed Light Project Phase I
+Pulsed Light Project Phase II
+Pulsed Light Project Phase III
+Blue Light collaboration Project
+
+## Undergraduate Research Experience
+Quantitative analysis of commercial salt enhancer
+FTIR Spectroscopy analysis of a cookie model system
