@@ -11,12 +11,12 @@ image:
   thumb: jade-logo.png
 ---
 
-## IFTSA & Mars Product Development Competition (2014)
+## IFTSA & Mars Product Development Competition 
 
-## Roger Smith FoodTech Conference (2014)
+## Roger Smith FoodTech Conference 
 
-## Thought for Food Challenge (2013)
+## Thought for Food Challenge 
 
-## McGill Gastronomy & Science Symposium (2012)
+## McGill Gastronomy & Science Symposium 
 
-## Learning how to program (2012-2014)
+## Learning how to code
