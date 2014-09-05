@@ -1,15 +1,5 @@
 ---
 layout: page
-title: ""
-date: 
-modified:
-excerpt:
-image:
-  feature:
----
-
----
-layout: page
 title: Research
 excerpt: "An overview of my research experience."
 modified: 
