@@ -6,8 +6,8 @@ excerpt: "This is what I like to do in my free time."
 modified: 
 image: 
   feature: freetime.jpg
-  credit:  
-  creditlink: 
+  credit: Pixabay 
+  creditlink: http://pixabay.com/fr/faire-cuire-alimentation-cuisine-366875/
   thumb: jade-logo.png
 ---
 
