@@ -8,3 +8,4 @@ image:
   feature: white.png
 ---
 
+![An image]({{ site.url }}/images/Jade1.jpg)
