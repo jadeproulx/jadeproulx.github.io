@@ -8,14 +8,12 @@ image:
   thumb: jade-logo.png
 ---
 
-## Development of light-based non-thermal treatments for microbial control on cheese surface
-### Pulsed Light Project Phase I
-### Pulsed Light Project Phase II
-### Pulsed Light Project Phase III
-### Blue Light collaboration Project
+## Research Projects
 
-## Quantitative analysis of commercial salt enhancer
+### Development of light-based non-thermal treatments for microbial control on cheese surface
 
-## FTIR Spectroscopy analysis of a cookie model system
+### Quantitative analysis of commercial salt enhancer
+
+### FTIR Spectroscopy analysis of a cookie model system
 
 ## Publications
