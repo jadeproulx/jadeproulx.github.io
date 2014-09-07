@@ -31,5 +31,3 @@ image:
 ### Talks
 
 * **Proulx, J.**, Hsu, L., Miller, B., Sullivan, G., Paradis, K., Moraru, C. Effectiveness of Pulsed Light Treatment on the Inactivation of Pathogenic and Spoilage Bacteria on Cheese Surface.  Joint Annual Meeting ADSA-ASAS-CSAS 2014. *ADSA Dairy Foods Division Graduate Student Paper Presentation Competition*. Kansas City, Missouri, USA, July 20-24. [[pdf](https://dl.dropboxusercontent.com/u/51364198/Presentation_ADSA.pdf)]
-
-          - 1st Place
