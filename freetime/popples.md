@@ -8,7 +8,7 @@ image:
   feature: white.png
 ---
 
-<iframe width="480" height="315" src="http://link.brightcove.com/services/player/bcpid1384193524001?bckey=AQ~~,AAABQKHY2bE~,ITTF-QY62MEfC5bna0hdbYgCt88POfF_&bctid=3706530605001" frameborder="1" allowfullscreen></iframe>
+<iframe width="480" height="300" src="http://link.brightcove.com/services/player/bcpid1384193524001?bckey=AQ~~,AAABQKHY2bE~,ITTF-QY62MEfC5bna0hdbYgCt88POfF_&bctid=3706530605001" frameborder="1" allowfullscreen></iframe>
 
 ![Popples](http://jadeproulx.com/images/popples-package.png)
 
