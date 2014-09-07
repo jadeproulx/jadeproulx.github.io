@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "McGill Gastronomy & Science Symposium"
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  feature: white.png
 ---
 
