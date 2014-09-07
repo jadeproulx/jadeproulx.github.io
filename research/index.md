@@ -25,6 +25,6 @@ image:
 
 ##### Posters
 
-- Effectiveness of Pulsed Light for Microbial Control on Cheese Surface. 17th World Congress of Food Science and Technology (IUFoST 2014). Montreal, Canada, August 17-21. [[pdf](https://dl.dropboxusercontent.com/u/51364198/Poster_IUFoST.pdf)]
+* Effectiveness of Pulsed Light for Microbial Control on Cheese Surface. 17th World Congress of Food Science and Technology (IUFoST 2014). Montreal, Canada, August 17-21. [[pdf](https://dl.dropboxusercontent.com/u/51364198/Poster_IUFoST.pdf)]
 
 ##### Talks
