@@ -13,14 +13,14 @@ image:
 
 ## [IFTSA & Mars Product Development Competition](http://www.jadeproulx.com/freetime/popples) 
 
-## Learning Code
+## [Learning Code](http://www.jadeproulx.com/code)
 
-## Roger Smith FoodTech Conference 
+## [Roger Smith FoodTech Conference](http://www.jadeproulx.com/freetime/FoodTechConference) 
 
-## Thought for Food Challenge 
+## [Thought for Food Challenge](http://www.jadeproulx.com/freetime/TFF) 
 
-## Atlus Inc.
+## [Atlus Inc.](http://www.jadeproulx.com/freetime/Atlus)
 
-## McGill Gastronomy & Science Symposium 
+## [McGill Gastronomy & Science Symposium](http://www.jadeproulx.com/freetime/mcgillsymposium) 
 
 
