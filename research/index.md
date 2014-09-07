@@ -8,12 +8,14 @@ image:
   thumb: jade-logo.png
 ---
 
-## Graduate Research Experience
-Pulsed Light Project Phase I
-Pulsed Light Project Phase II
-Pulsed Light Project Phase III
-Blue Light collaboration Project
+## Development of light-based non-thermal treatments for microbial control on cheese surface
+### Pulsed Light Project Phase I
+### Pulsed Light Project Phase II
+### Pulsed Light Project Phase III
+### Blue Light collaboration Project
 
-## Undergraduate Research Experience
-Quantitative analysis of commercial salt enhancer
-FTIR Spectroscopy analysis of a cookie model system
+## Quantitative analysis of commercial salt enhancer
+
+## FTIR Spectroscopy analysis of a cookie model system
+
+## Publications
