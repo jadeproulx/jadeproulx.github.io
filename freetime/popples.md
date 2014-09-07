@@ -8,4 +8,4 @@ image:
   feature: white.png
 ---
 
-![An image](http://jadeproulx.com/images/Jade1.png)
+![Popples](http://jadeproulx.com/images/popples-package.png)
