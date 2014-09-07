@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Thought for Food Challenge"
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  feature: white.png
 ---
 
