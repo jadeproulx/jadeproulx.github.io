@@ -1,16 +1,38 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1138.51">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
-  </style>
-</head>
-<body>
-<p class="p1">â€¢ {% for link in site.data.navigation %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign domain = site.url %} {% endif %} â€¢ {{ link.title }} â€¢ {% endfor %} {% if site.search %} â€¢ Search â€¢ {% endif %} {% include browser-upgrade.html %} {% if page.image.feature %} {% if site.logo != null %} {% endif %} {% else %} {% if site.logo != null %} {% endif %} {{ site.title }} {{ site.description }} {% endif %}</p>
-</body>
-</html>
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      {% for link in site.data.navigation %}
+		    {% if link.url contains 'http' %}
+		        {% assign domain = '' %}
+		        {% else %}
+		        {% assign domain = site.url %}
+		    {% endif %}
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		  {% endfor %}
+        {% if site.search %}<li class="dosearch"><span><i class="fa fa-search"></i> Search</span></li>{% endif %}
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+{% include browser-upgrade.html %}
+
+{% if site.search %}{% include site-search.html %}{% endif %}
+
+{% if page.image.feature %}<header class="masthead">
+	{% if site.logo != null %}
+		<div class="wrap">
+			<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated bounceInDown"></a>
+		</div>
+	{% endif %}
+</header><!-- /.masthead -->
+{% else %}<header class="masthead">
+	<div class="wrap">
+        {% if site.logo != null %}
+    		<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInUp"></a>
+        {% endif %}
+        <h1 class="site-title animated fadeIn"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
+	</div>
+</header><!-- /.masthead -->{% endif %}
+
+<div class="js-menu-screen menu-screen"></div>
