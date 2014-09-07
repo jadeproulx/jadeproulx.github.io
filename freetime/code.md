@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Learning how to Code"
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  feature: white.png
 ---
 
