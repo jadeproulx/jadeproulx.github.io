@@ -13,7 +13,7 @@ image:
 
 ## [IFTSA & Mars Product Development Competition](http://www.jadeproulx.com/freetime/popples) 
 
-## [Learning Code](http://www.jadeproulx.com/code)
+## [Learning Code](http://www.jadeproulx.com/freetime/code)
 
 ## [Roger Smith FoodTech Conference](http://www.jadeproulx.com/freetime/FoodTechConference) 
 
