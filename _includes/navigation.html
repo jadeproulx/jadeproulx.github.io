@@ -11,6 +11,6 @@
   </style>
 </head>
 <body>
-<p class="p1">â€¢ {% for link in site.data.navigation %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign domain = site.url %} {% endif %} â€¢ {{ link.title }} â€¢ {% endfor %} &lt;!--{% if site.search %} â€¢ Search â€¢ {% endif %}--&gt; {% include browser-upgrade.html %} {% if page.image.feature %} {% if site.logo != null %} {% endif %} {% else %} {% if site.logo != null %} {% endif %} {{ site.title }} {{ site.description }} {% endif %}</p>
+<p class="p1">â€¢ {% for link in site.data.navigation %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign domain = site.url %} {% endif %} â€¢ {{ link.title }} â€¢ {% endfor %} {% if site.search %} â€¢ Search â€¢ {% endif %} {% include browser-upgrade.html %} {% if page.image.feature %} {% if site.logo != null %} {% endif %} {% else %} {% if site.logo != null %} {% endif %} {{ site.title }} {{ site.description }} {% endif %}</p>
 </body>
 </html>
