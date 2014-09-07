@@ -18,12 +18,18 @@ Learn to Program: The Fundamentals
 
 
 ![Learn to Program: Crafting Quality Code](http://jadeproulx.com/images/learning-craft-code.png)
-Learn to Program: Crafting Quality Code
-*University of Toronto*
+Learn to Program: Crafting Quality Code  
+*University of Toronto*  
 [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)]
 
-![The Data Scientist's Toolbox](http://jadeproulx.com/images/data-scientist-toolbox.jpg)| The Data Scientist's Toolbox
+![The Data Scientist's Toolbox](http://jadeproulx.com/images/data-scientist-toolbox.jpg)  
+The Data Scientist's Toolbox  
+*Johns Hopkins University*  
+[[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)]
 
-![R-Programming](http://jadeproulx.com/images/r-programming.jpg)| R-Programming
+![R-Programming](http://jadeproulx.com/images/r-programming.jpg)  
+R-Programming  
+*Johns Hopkins University*
+[[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)]
 
 
