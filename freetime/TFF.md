@@ -8,7 +8,7 @@ image:
   feature: white.png
 ---
 
-<img style="float: center" src="http://jadeproulx.com/images/tff-team.jpg"> 
+<img style="float: right" src="http://jadeproulx.com/images/tff-team.jpg"> 
 
 ![TFF team](http://jadeproulx.com/images/tff-team.jpg)
 
