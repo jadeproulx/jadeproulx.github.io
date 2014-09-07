@@ -14,6 +14,8 @@ image:
 
 ### Quantitative analysis of a commercial salt enhancer
 
+### FTIR Spectroscopy analysis of a cookie model system
+
 # Publications
 
 ### Book chapters
