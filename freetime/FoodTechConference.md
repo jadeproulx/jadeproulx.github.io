@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Roger Smith FoodTech Conference"
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  feature: white.png
 ---
 
