@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Atlus inc."
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  feature: white.png
 ---
 
