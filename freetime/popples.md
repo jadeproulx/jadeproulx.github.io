@@ -10,4 +10,4 @@ image:
 
 ![Popples](http://jadeproulx.com/images/popples-package.png)
 
-![Group photo](http//jadeproulx.com/images/IFT-group.jpg)
+![Group photo](http://jadeproulx.com/images/IFT-group.jpg)
