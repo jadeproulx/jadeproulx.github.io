@@ -8,7 +8,7 @@ image:
   feature: white.png
 ---
 
-<img style="float: right" src="http://jadeproulx.com/images/tff-team.jpg"> 
+<img style="float: right" src="http://jadeproulx.com/images/tff-team.jpg"> I am testing what this text looks like.
 
 ![TFF team](http://jadeproulx.com/images/tff-team.jpg)
 
