@@ -8,4 +8,4 @@ image:
   feature: white.png
 ---
 
-![Hervé This and me](http://www.jadeproulx.com/images/this-and-me.jpg)
+![Hervé This and me](http://jadeproulx.com/images/this-and-me.jpg)
