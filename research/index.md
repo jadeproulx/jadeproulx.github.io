@@ -10,9 +10,9 @@ image:
 
 ## Research Projects
 
-##### Development of light-based non-thermal treatments for microbial control on cheese surface
+##### Development of light-based treatments for microbial control on cheese surface
 
-##### Quantitative analysis of commercial salt enhancer
+##### Quantitative analysis of a commercial salt enhancer
 
 ##### FTIR Spectroscopy analysis of a cookie model system
 
