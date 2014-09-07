@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "IFTSA & Mars Product Development Competition"
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  feature: white.png
 ---
 
