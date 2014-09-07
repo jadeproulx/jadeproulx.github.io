@@ -11,7 +11,7 @@ image:
   thumb: jade-logo.png
 ---
 
-## IFTSA & Mars Product Development Competition 
+## [IFTSA & Mars Product Development Competition](http://www.jadeproulx.com/freetime/popples) 
 
 ## Learning Code
 
