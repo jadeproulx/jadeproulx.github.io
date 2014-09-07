@@ -22,7 +22,7 @@ image:
 
 * Alishahi, A., **Proulx, J.**, & Aider, M. (2014). Chitosan as bio-based nanocomposite in seafood industry and aquaculture. In S. Kim (Ed.), *Seafood science: Advances in chemistry, technology and applications* (pp. 211-231) CRC Press. doi:10.1201/b17402-12 [[CRC Press](http://www.crcnetbase.com/doi/abs/10.1201/b17402-12)]
 
-### Peer-reviewed publications
+### Journal Articles
 
 ### Posters
 
