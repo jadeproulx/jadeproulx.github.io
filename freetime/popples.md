@@ -8,6 +8,8 @@ image:
   feature: white.png
 ---
 
+<iframe width="420" height="315" src="http://link.brightcove.com/services/player/bcpid1384193524001?bckey=AQ~~,AAABQKHY2bE~,ITTF-QY62MEfC5bna0hdbYgCt88POfF_&bctid=3706530605001" frameborder="0" allowfullscreen></iframe>
+
 ![Popples](http://jadeproulx.com/images/popples-package.png)
 
 ![Group photo](http://jadeproulx.com/images/IFT-group.jpg)
