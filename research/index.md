@@ -10,6 +10,6 @@ image:
 
 ## Development of light-based treatments for microbial control on cheese surface
 
-## Quantitative analysis of a commercial salt enhancer
+## Quantitative analysis of a commercial salt enhancer [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
 
 ## FTIR Spectroscopy analysis of a cookie model system
