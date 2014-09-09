@@ -8,15 +8,20 @@ image:
   thumb: jade-logo.png
 ---
 
-# Graduate Research Experience 
+# Academic Research
+ 
 I work under the supervision of [[<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/)] in the area of Food Safety Engineering.
 
-## Development of light-based treatments for microbial control on cheese surface
+## Development of Pulsed Light treatments for microbial control on cheese surface
 
-# Undergraduate Research Experience
+## Development of Pulsed Light combination treatments for microbial control on cheese surface
+
+## Investigation of Pulsed Light effect on cheese quality attributes
 
 ## Quantitative analysis of a commercial salt enhancer [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
 
 ## FTIR Spectroscopy analysis of a cookie model system
+
+# Industrial Research
 
 ## Flavor Chemistry
