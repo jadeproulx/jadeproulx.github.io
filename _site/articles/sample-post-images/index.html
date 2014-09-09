@@ -92,42 +92,38 @@
 		    
 		        
 		    
-		    <li><a href="/personalprojects/" >Personal Projects</a></li>
+		    <li><a href="/publications/" >Publications</a></li>
 		  
 		    
 		        
 		    
-		    <li><a href="/cv/" >Curriculum Vitae</a></li>
+		    <li><a href="/freetime/" >What I do in my free time</a></li>
 		  
 		    
 		        
 		        
-		    <li><a href="http://mademistakes.com" target="_blank">Made Mistakes</a></li>
+		    <li><a href="https://dl.dropboxusercontent.com/u/51364198/CV_Jade_Proulx.pdf" target="_blank">Curriculum Vitae</a></li>
 		  
-        <li class="dosearch"><i class="fa fa-search"></i> Search</li>
+        
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
-<div class="search-wrapper">
-  <div class="search-form">
-    <input type="text" class="search-field" placeholder="Search...">
-    <button class="close-btn"><i class="fa fa-times-circle fa-2x"></i></button>
-    <ul class="search-results post-list"></ul><!-- /.search-results -->
-  </div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->
+
 
 <header class="masthead">
 	<div class="wrap">
         
     		<a href="" class="site-logo" rel="home" title="Jade Proulx"><img src="/images/jade-logo.png" width="200" height="200" alt="Jade Proulx logo" class="animated fadeInUp"></a>
         
-        <h1 class="site-title animated fadeIn"><a href="/">Jade Proulx</a></h1>
+        <h1 class="site-title animated fadeIn"><a href="">Jade Proulx</a></h1>
 		<h2 class="site-description animated fadeIn" itemprop="description">This is Jade Proulx's personal website.</h2>
 	</div>
 </header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
 
 
 <div id="main" role="main">
@@ -144,7 +140,7 @@
         
         
         
-          <img src="/images/Jade_Proulx_Headshot.png" class="bio-photo" alt="Jade Proulx bio photo"></a>
+          <img src="/images/Jade1.png" class="bio-photo" alt="Jade Proulx bio photo"></a>
         
         <span class="author vcard">By <span class="fn">Jade Proulx</span></span>
         <span class="entry-date date published"><time datetime="2013-05-22T00:00:00-04:00"><i class="fa fa-calendar-o"></i> May 22, 2013</time></span>
@@ -247,7 +243,7 @@
   <footer role="contentinfo">
     
 
-<span>&copy; 2014 Jade Proulx.</span>
+<span>&copy; 2014 Jade Proulx</span>
 <div class="social-icons">
 	<a href="http://twitter.com/JadeProulx" title="Jade Proulx on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
 	
@@ -256,11 +252,14 @@
 	
 	
 	
-	
 	<a href="http://github.com/jadeproulx" title="Jade Proulx on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	<a href="mailto:jp827@cornell.edu" title="E-mail Jade Proulx" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
+	<!--<a href="https://www.goodreads.com/review/list/12267780-jade?shelf=read" title="Jade Proulx on Goodreads" target="_blank"><i class="fa fa-book fa-2x"></i></a>-->
 	
-  <a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+	
+  <!--<a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>-->
 </div><!-- /.social-icons -->
+
 
   </footer>
 </div><!-- /.footer-wrapper -->
@@ -268,42 +267,6 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="/assets/js/scripts.min.js"></script>
-
-<!-- Jekyll Simple Search option -->
-<script>
-  $(document).ready(function() {
-      $('.search-field').jekyllSearch({
-          jsonFile: '/search.json',
-          searchResults: '.search-results',
-          template: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          fuzzy: true,
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
-
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".close-btn"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
-    });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
-</script>
 
 
 
