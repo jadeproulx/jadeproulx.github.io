@@ -10,18 +10,19 @@ image:
 
 # Academic Research
  
-I work under the supervision of [[<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/)] in the area of Food Safety Engineering.
 
-## Development of Pulsed Light treatments for microbial control on cheese surface
 
-## Development of Pulsed Light combination treatments for microbial control on cheese surface
+### Development of light-based combination treatments for microbial control on cheese surface
 
-## Investigation of Pulsed Light effect on cheese quality attributes
+I work under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering. My work involves analyzing how different treatment conditions and process parameters influence the effectiveness of light-based, non-thermal treatments such as Pulsed Light and LED blue light against pathogenic and spoilage microorganisms on cheese surface. 
 
-## Quantitative analysis of a commercial salt enhancer [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
+This works involve the use of multivariate experimental design (DOE) and results interpretation. 
 
-## FTIR Spectroscopy analysis of a cookie model system
+
+### Quantitative analysis of a commercial salt enhancer [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
+
+### FTIR Spectroscopy analysis of a cookie model system
 
 # Industrial Research
 
-## Flavor Chemistry
+### Flavor Chemistry
