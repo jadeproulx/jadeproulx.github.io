@@ -4,7 +4,7 @@ title: Research
 excerpt: "An overview of my research experience."
 modified: 
 image: 
-  feature: plates.jpg
+  feature: plates1.jpg
   thumb: jade-logo.png
 ---
 
