@@ -8,10 +8,6 @@ image:
   thumb: jade-logo.png
 ---
 
-# Academic Research
- 
-
-
 ### Development of light-based combination treatments for microbial control on cheese surface
 
 I am currently completing my Master's thesis under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering. My work involves analyzing how different treatment conditions and process parameters influence the effectiveness of energy efficient non-thermal treatments such as **Pulsed Light** and **LED blue light** on **cheese** surface. Of particular interest are questions such as:  
@@ -26,6 +22,6 @@ In the course of this work I have used varied statistical methods to design my e
 
 ### Quantitative analysis of a commercial salt enhancer's uptake by potatoes [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
 
-My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span> Inc](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer's was absorbed by potatoes. 
+My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span>](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer's was absorbed by potatoes.  
 
 ### FTIR Spectroscopy analysis of a cookie model system
