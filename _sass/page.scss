@@ -291,7 +291,7 @@ span + .entry-title {
 	p:first-child {
 		margin-top: 0;
 	}
-	@media #{$medium} {
+	@media #{$large} {
 		float: left;
 	}
 	p > a,
