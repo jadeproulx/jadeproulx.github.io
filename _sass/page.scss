@@ -232,7 +232,7 @@ span + .entry-title {
 }
 .entry-wrapper {
 	margin: 0 auto 3em;
-	max-width: 800px;
+	max-width: 440px;
 	padding-right: 20px;
 	padding-left: 20px;
 	@include clearfix();
@@ -284,7 +284,7 @@ span + .entry-title {
 	}
 }
 .entry-content {
-	max-width: 640px;
+	max-width: 840px;
 	width: 100%;
 	margin-right: auto;
 	margin-left: auto;
