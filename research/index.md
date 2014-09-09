@@ -23,13 +23,9 @@ I am currently completing my Master's thesis under the supervision of [<span sty
 
 In the course of this work I have used varied statistical methods to design my experiments and interpret my results, including **multiple linear regression** and **survival analysis**. I also trained, managed, and mentored 6 undergraduate research assistants individually and in teams.  
 
-To learn  more about this work, visit the [<span style="color:green">Publications</span>](http://jadeproulx.com/publications) page.
 
+### Quantitative analysis of a commercial salt enhancer's uptake by potatoes [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
 
-### Quantitative analysis of a commercial salt enhancer [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
+My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span> Inc](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer's was absorbed by potatoes. 
 
 ### FTIR Spectroscopy analysis of a cookie model system
-
-# Industrial Research
-
-### Flavor Chemistry
