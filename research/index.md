@@ -13,6 +13,7 @@ image:
 I am currently completing my Master's thesis under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering. My work involves analyzing how different treatment conditions and process parameters influence the effectiveness of energy efficient non-thermal treatments such as **Pulsed Light** and **LED blue light** on **cheese** surface.  
 
 Of particular interest are questions such as:  
+
 * How do different microorganisms respond to light-based treatments?  
 
 *  Does the presence of LDPE-packaging diminish the bactericidal effect of light?  
