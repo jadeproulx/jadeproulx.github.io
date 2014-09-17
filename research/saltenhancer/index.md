@@ -2,8 +2,10 @@
 layout: page
 title: "Quantitative analysis of a commercial salt enhancer's uptake by potatoes"
 excerpt: "An overview of my undergraduate research experience"
-feature: white.png
-
+modified: 
+image: 
+  feature: white.png
+  thumb: jade-logo.png
 ---
 ## Quantitative analysis of a commercial salt enhancer's uptake by potatoes [[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
 
