@@ -11,7 +11,7 @@ image:
   thumb: jade-logo.png
 ---
 
-### <span style="color:green">[IFTSA & Mars Product Development Competition](http://www.jadeproulx.com/freetime/popples)</span>   2014 
+### <a href="http://www.jadeproulx.com/freetime/popples"><span style="color:green">IFTSA & Mars Product Development Competition</span></a>   2014 
 
 ### [Learning Code](http://www.jadeproulx.com/freetime/code)           2013-2014   
 
