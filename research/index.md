@@ -8,7 +8,7 @@ image:
   thumb: jade-logo.png
 ---
 
-## Development of light-based combination treatments for microbial control on cheese surface
+## Light-based treatments for microbial control on cheese surface
 My graduate work as a Masters student involves analyzing how different treatment conditions and process parameters influence the effectiveness of energy efficient non-thermal treatments such as **Pulsed Light** and **LED blue light** on **cheese** surface. <a href="http://jadeproulx.com/research/pulsedlight"><span style="color:green">Learn more</span></a>
 
 
