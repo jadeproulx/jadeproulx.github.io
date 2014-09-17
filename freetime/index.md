@@ -20,7 +20,7 @@ I think computer literacy is a must nowadays, so I decided to learn any way I co
 <a href="http://www.jadeproulx.com/freetime/code/"><span style="color:green">Learn more</span></a>  
 
 ## Roger Smith FoodTech Conference (2014)  
-Bla bla
+Bla bla  
 <a href="http://www.jadeproulx.com/freetime/FoodTechConference/"><span style="color:green">Learn more</span></a>
 
 ## Thought for Food Challenge (2013)  
