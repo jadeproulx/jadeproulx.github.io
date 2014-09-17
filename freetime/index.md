@@ -11,16 +11,18 @@ image:
   thumb: jade-logo.png
 ---
 
-### <a href="http://www.jadeproulx.com/freetime/popples"><span style="color:green">IFTSA & Mars Product Development Competition</span></a>   2014 
+## IFTSA & Mars Product Development Competition (2014) 
+As part of the Cornell team, I helped develop a novel extruded snack making use of apple pomace as a main ingredient, which is currently an under-utilized, nutrient-rich by-product of the juice and cider industry. 
+[<a href="http://www.jadeproulx.com/freetime/popples"><span style=color:"green">Learn more</span></a>]
 
-### [Learning Code](http://www.jadeproulx.com/freetime/code)           2013-2014   
+## [Learning Code](http://www.jadeproulx.com/freetime/code)(2013-2014)   
 
-### [Roger Smith FoodTech Conference](http://www.jadeproulx.com/freetime/FoodTechConference)  2014 
+## [Roger Smith FoodTech Conference](http://www.jadeproulx.com/freetime/FoodTechConference)  2014 
 
-### [Thought for Food Challenge](http://www.jadeproulx.com/freetime/TFF)        2013
+## [Thought for Food Challenge](http://www.jadeproulx.com/freetime/TFF)        2013
 
-### [Atlus Inc.](http://www.jadeproulx.com/freetime/Atlus)     2012
+## [Atlus Inc.](http://www.jadeproulx.com/freetime/Atlus)     2012
 
-### [McGill Gastronomy & Science Symposium](http://www.jadeproulx.com/freetime/mcgillsymposium)    2012
+## [McGill Gastronomy & Science Symposium](http://www.jadeproulx.com/freetime/mcgillsymposium)    2012
 
 
