@@ -20,7 +20,7 @@ I think computer literacy is a must nowadays, so I decided to learn any way I co
 <a href="http://jadeproulx.com/freetime/code"><span style="color:green">Learn more</span></a>  
 
 ## Roger Smith FoodTech Conference (2014)  
-Bla bla  
+Since food science is so misunderstood, I decided to give a talk at the Roger Smith FoodTech Conference which had for theme *Our Ambiguous Fear and Love of Food Technologies*. I talked about High Pressure Processing (HPP) and UV-Pasteurization.  
 <a href="http://jadeproulx.com/freetime/FoodTechConference"><span style="color:green">Learn more</span></a>
 
 ## Thought for Food Challenge (2013)  
