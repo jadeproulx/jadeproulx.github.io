@@ -28,11 +28,11 @@ TFF is a fast-growing community of students and mentors from all fields of study
 <a href="http://jadeproulx.com/freetime/TFF"><span style="color:green">Learn more</span></a>
 
 ## Atlus Inc. (2012)  
-I co-founded Atlus, an exlusive restaurant recommendation iPhone app, along with 4 other students in the framework of <a href="http://thenext36.ca"><span style="color:green">The Next 36></span></a>, Canada's Entrepreneurial Leadership Initiative. The app was acquired in 2013 by Purple Forge Inc. 
+I co-founded Atlus, an exlusive restaurant recommendation iPhone app along with 4 other students in the framework of *The Next 36, Canada's Entrepreneurial Leadership Initiative*. The app was acquired in 2013 by Purple Forge Inc. 
 <a href="http://jadeproulx.com/freetime/Atlus"><span style="color:green">Learn more</span></a>
 
 ## McGill Gastronomy & Science Symposium (2012)  
-Bla bla  
+When I was the McGill Food Science Association President, our team organized a Gastronomy & Science symposium featuring speakers including Hervé This, father of Molecular Gastronomy, as well as Maxime Bilet, chef for Modernist Cuisine.
 <a href="http://jadeproulx.com/freetime/mcgillsymposium"><span style="color:green">Learn more</span></a>
 
 
