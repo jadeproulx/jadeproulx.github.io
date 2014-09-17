@@ -4,7 +4,7 @@ title: "Development of light-based combination treatments for microbial control 
 excerpt: "An overview of my graduate research experience."
 modified: 
 image: 
-  feature: white.jpg
+  feature: white.png
   thumb: jade-logo.png
 ---
 
