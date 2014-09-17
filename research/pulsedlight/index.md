@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Development of light-based combination treatments for microbial control on cheese surface"
+title: "Light-based treatments for microbial control on cheese surface"
 excerpt: "An overview of my graduate research experience."
 modified: 
 image: 
