@@ -13,7 +13,7 @@ image:
 
 ## IFTSA & Mars Product Development Competition (2014) 
 As part of the Cornell team, I helped develop a novel extruded snack making use of apple pomace as a main ingredient, which is currently an under-utilized, nutrient-rich by-product of the juice and cider industry. 
-[<a href="http://www.jadeproulx.com/freetime/popples"><span style=color:"green">Learn more</span></a>]
+[<span style=color:"green">Learn more</span>](http://www.jadeproulx.com/freetime/popples)
 
 ## [Learning Code](http://www.jadeproulx.com/freetime/code)(2013-2014)   
 
