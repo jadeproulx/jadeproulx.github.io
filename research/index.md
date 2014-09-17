@@ -9,8 +9,7 @@ image:
 ---
 
 ## Development of light-based combination treatments for microbial control on cheese surface
-
-I am currently completing my Master's thesis under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering. My work involves analyzing how different treatment conditions and process parameters influence the effectiveness of energy efficient non-thermal treatments such as **Pulsed Light** and **LED blue light** on **cheese** surface.  
+My graduate work as a Masters student involves analyzing how different treatment conditions and process parameters influence the effectiveness of energy efficient non-thermal treatments such as **Pulsed Light** and **LED blue light** on **cheese** surface.  
 <a href="http://jadeproulx.com/research/pulsedlight"><span style="color:green">Learn more</span></a>
 
 
