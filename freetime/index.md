@@ -19,12 +19,20 @@ As part of the Cornell team, I helped develop a novel extruded snack making use 
 Bla bla  
 <a href="http://jadeproulx.com/freetime/code/"><span style="color:green">Learn more></span></a>  
 
-## [Roger Smith FoodTech Conference](http://www.jadeproulx.com/freetime/FoodTechConference)  2014 
+## Roger Smith FoodTech Conference (2014)  
+Bla bla
+<a href="http://jadeproulx.com/freetime/FoodTechConference/"><span style="color:green">Learn more></span></a>
 
-## [Thought for Food Challenge](http://www.jadeproulx.com/freetime/TFF)        2013
+## Thought for Food Challenge (2013)  
+Bla bla  
+<a href="http://jadeproulx.com/freetime/TFF/"><span style="color:green">Learn more></span></a>
 
-## [Atlus Inc.](http://www.jadeproulx.com/freetime/Atlus)     2012
+## Atlus Inc. (2012)  
+Bla bla  
+<a href="http://jadeproulx.com/freetime/Atlus/"><span style="color:green">Learn more></span></a>
 
-## [McGill Gastronomy & Science Symposium](http://www.jadeproulx.com/freetime/mcgillsymposium)    2012
+## McGill Gastronomy & Science Symposium (2012)  
+Bla bla  
+<a href="http://jadeproulx.com/freetime/mcgillsymposium/"><span style="color:green">Learn more></span></a>
 
 
