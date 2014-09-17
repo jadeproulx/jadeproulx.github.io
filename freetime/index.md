@@ -15,9 +15,9 @@ image:
 As part of the Cornell team, I helped develop a novel extruded snack making use of apple pomace as a main ingredient, which is currently an under-utilized, nutrient-rich by-product of the juice and cider industry.  
 <a href="http://jadeproulx.com/freetime/popples/"><span style="color:green">Learn more</span></a>
 
-## Learning Code
+## Learning Code (2013-2014) 
 Bla bla  
-<a href="http://jadeproulx.com/freetime/code/"><span(http://www.jadeproulx.com/freetime/code)(2013-2014)   
+<a href="http://jadeproulx.com/freetime/code/"><span style="color:green">Learn more></span></a>  
 
 ## [Roger Smith FoodTech Conference](http://www.jadeproulx.com/freetime/FoodTechConference)  2014 
 
