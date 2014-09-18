@@ -20,3 +20,9 @@ Of particular interest are questions such as:
 *  How does light affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?  
 
 In the course of this work I have used varied statistical methods to design my experiments and interpret my results, including **multiple linear regression** and **survival analysis**. I also trained, managed, and mentored 6 undergraduate research assistants individually and in teams.  
+
+## Quantitative analysis of a salt enhancer's uptake by potatoes
+My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span>](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer was absorbed by potatoes. The project involved adapting an **enzymatic and colorimetric detection method** that used glycerol as a marker for this particular application.
+[[<span style="color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Research%20Report_Jade%20Proulx.pdf)]
+
+## FTIR spectroscopic analysis of a cookie model system
