@@ -7,7 +7,7 @@ image:
   feature: plates1.jpg
   thumb: jade-logo.png
 ---
-My research focuses on finding applied solutions to the big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to prevent wasteful food recalls, while my undergraduate research experience involved helping the industry meet its sodium reduction targets and understanding the structure-functionality relationship of under-utilized proteins.
+My research focuses on finding applied solutions to the big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to **prevent wasteful food recalls**, while my undergraduate research experience involved helping the industry meet its **sodium reduction** targets and understanding the structure-functionality relationship of **under-utilized proteins**.
 
 ## Light-based treatments for microbial control on cheese surface
 Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both <a href="http://www.cdc.gov/listeria/outbreaks/cheese-09-12/index.html"><span style="color:green">food safety issues</span></a> and <a href="http://www.huffingtonpost.com/2010/06/22/blue-mozzarella-investiga_n_618484.html"><span style="color:green">significant losses</span></a> due to spoilage. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light (PL), a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
