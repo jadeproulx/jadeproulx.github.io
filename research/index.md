@@ -12,12 +12,12 @@ My research focuses on finding applied solutions to the big challenges facing th
 ## Light-based treatments for microbial control on cheese surface
 Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both <a href="http://www.cdc.gov/listeria/outbreaks/cheese-09-12/index.html"><span style="color:green">food safety issues</span></a> and <a href="http://www.huffingtonpost.com/2010/06/22/blue-mozzarella-investiga_n_618484.html"><span style="color:green">significant losses</span></a> due to spoilage. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light (PL), a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
 
-*How do different microorganisms respond to PL treatments?*  
-*Does the presence of LDPE-packaging diminish the bactericidal effect of PL?*  
-*How does the substrate's surface topography influence the effectiveness of different PL treatments?*  
-*Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
-*How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
-*How does PL compare to other available light-based treatments such as continuous UV-light and LED blue light?*
+1. *How do different microorganisms respond to PL treatments?*  
+2. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?*  
+3. *How does the substrate's surface topography influence the effectiveness of different PL treatments?*  
+4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
+5. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
+6. *How does PL compare to other available light-based treatments such as continuous UV-light and LED blue light?*
 
 In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences (<a href="http://www.jtmtg.org/JAM/2014/abstracts/0325-0333.pdf"><span style="color:green">ADSA</span></a>, <a href="https://iufost2014.pathable.com/meetings/217113"><span style="color:green">IUFoST</span></a>).
 
