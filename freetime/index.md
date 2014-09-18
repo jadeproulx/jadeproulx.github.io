@@ -21,7 +21,7 @@ I think computer literacy is a must nowadays, so I decided to learn any way I co
 Since food science is so misunderstood, I decided to give an open talk at a conference in New York City where the theme was *An Exploration of Our Ambiguous Love, Hate, and Fear of Food Technologies*. I talked about High Pressure Processing (HPP) and UV-Pasteurization. <a href="http://jadeproulx.com/freetime/FoodTechConference"><span style="color:green">Learn more</span></a>
 
 ## Thought for Food Challenge (2013)  
-TFF is a fast-growing community of students and mentors from all fields of study wanting to solve complex challenges related to food security. I participated to their annual challenge in 2013 with a proposal for a smart domestic food management system and I now serve as an ambassador. <a href="http://jadeproulx.com/freetime/TFF"><span style="color:green">Learn more</span></a>
+TFF is a fast-growing community of students and mentors from all fields of study wanting to solve complex challenges related to food security. I participated in their annual challenge in 2013 with a proposal for a smart domestic food management system and I now serve as an ambassador. <a href="http://jadeproulx.com/freetime/TFF"><span style="color:green">Learn more</span></a>
 
 ## Atlus Inc. (2012)  
 I co-founded Atlus, an exlusive restaurant recommendation iPhone app along with 4 other students in the framework of *The Next 36, Canada's Entrepreneurial Leadership Initiative*. The app was acquired in 2013 by Purple Forge Inc. <a href="http://jadeproulx.com/freetime/Atlus"><span style="color:green">Learn more</span></a>
