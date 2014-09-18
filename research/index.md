@@ -19,7 +19,7 @@ Cheese products made from pasteurized milk are susceptible to post-processing su
 *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
 *How does PL compare to other available light-based treatments such as continuous UV-light and LED blue light?*
 
-In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences [<a href="http://www.jtmtg.org/JAM/2014/abstracts/0359-0360.pdf"><span style="color:green">ADSA</span></a>, <a href="https://iufost2014.pathable.com/meetings/217113"><span style="color:green">IUFoST</span></a>].
+In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences [<a href="http://www.jtmtg.org/JAM/2014/abstracts/0325-0333.pdf"><span style="color:green">ADSA</span></a>, <a href="https://iufost2014.pathable.com/meetings/217113"><span style="color:green">IUFoST</span></a>].
 
 ## Quantitative analysis of a salt enhancer's uptake by potatoes
 My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span>](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer was absorbed by potatoes. The project involved adapting an **enzymatic and colorimetric detection method** that used glycerol as a marker for this particular application.
