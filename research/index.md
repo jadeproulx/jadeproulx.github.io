@@ -11,6 +11,7 @@ My research focuses on finding applied solutions to the big challenges facing th
 
 ## Light-based treatments for microbial on cheese surface
 Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both food safety issues and significant losses due to spoilage. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light, a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
+
 *How do different microorganisms respond to light-based treatments?*  
 *Does the presence of LDPE-packaging diminish the bactericidal effect of light?*  
 *How does the substrate's surface topography influence the effectiveness of different light treatments?*  
@@ -18,7 +19,7 @@ Cheese products made from pasteurized milk are susceptible to post-processing su
 *How does light affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
 *How does Pulsed Light compare to other available light-based treatments such as continuous UV-light and LED blue light?*
 
-In the course of this work I have used varied statistical methods to design my experiments and interpret my results, including **multiple linear regression** and **survival analysis**. I also trained, managed, and mentored 6 undergraduate research assistants individually and in teams.  
+In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences (http://www.jtmtg.org/JAM/2014/abstracts/0299-0303.pdf , http://www.jtmtg.org/JAM/2014/abstracts/0359-0360.pdf ) (https://iufost2014.pathable.com/meetings/217113).
 
 ## Quantitative analysis of a salt enhancer's uptake by potatoes
 My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span>](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer was absorbed by potatoes. The project involved adapting an **enzymatic and colorimetric detection method** that used glycerol as a marker for this particular application.
