@@ -10,16 +10,16 @@ image:
 My research focuses on finding applied solutions to the big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to <a href="http://jadeproulx.com/research/pulsedlight"><span style="color:green">prevent wasteful food recalls</span></a>, while my undergraduate research experience involved helping the industry meet its <a href="http://jadeproulx.com/research/saltenhancer"><span style="color:green">sodium reduction</span></a> targets and understanding the <a href="http://jadeproulx.com/research/FTIR"><span style="color:green">structure-functionality relationship of under-utilized proteins</span></a>.
 
 ## Light-based treatments for microbial control on cheese surface
-Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both food safety issues and significant losses due to spoilage. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light, a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
+Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both food safety issues and significant losses due to spoilage. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light (PL), a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
 
-*How do different microorganisms respond to light-based treatments?*  
-*Does the presence of LDPE-packaging diminish the bactericidal effect of light?*  
-*How does the substrate's surface topography influence the effectiveness of different light treatments?*  
-*Are hurdle strategies combining light treatments with natural antimicrobials more effective than light alone?*  
-*How does light affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
-*How does Pulsed Light compare to other available light-based treatments such as continuous UV-light and LED blue light?*
+*How do different microorganisms respond to PL treatments?*  
+*Does the presence of LDPE-packaging diminish the bactericidal effect of PL?*  
+*How does the substrate's surface topography influence the effectiveness of different PL treatments?*  
+*Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
+*How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
+*How does PL compare to other available light-based treatments such as continuous UV-light and LED blue light?*
 
-In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences (http://www.jtmtg.org/JAM/2014/abstracts/0299-0303.pdf , http://www.jtmtg.org/JAM/2014/abstracts/0359-0360.pdf ) (https://iufost2014.pathable.com/meetings/217113).
+In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences [<a href="http://www.jtmtg.org/JAM/2014/abstracts/0359-0360.pdf"><span style="color:green">ADSA</span></a>, <a href="https://iufost2014.pathable.com/meetings/217113"><span style="color:green">IUFoST</span></a>].
 
 ## Quantitative analysis of a salt enhancer's uptake by potatoes
 My undergraduate research thesis was done in partnership with [<span style="color:green">Novotaste Inc.</span>](http://www.novotaste.com) and consisted in developing an accurate, rapid, and affordable analytical method that could quantify how much of a salt enhancer was absorbed by potatoes. The project involved adapting an **enzymatic and colorimetric detection method** that used glycerol as a marker for this particular application.
