@@ -23,7 +23,7 @@ Of particular interest are questions such as:
 2. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*
 3. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?* 
 4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  .   
-6. *How does PL compare to other available light-based treatments such as continuous UV-light and LED blue light?*
+6. *How does PL compare to other available light-based treatments such as continuous UV-light and blue LEDs?*
 
 In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences (<a href="http://www.jtmtg.org/JAM/2014/abstracts/0325-0333.pdf"><span style="color:green">ADSA</span></a>, <a href="https://iufost2014.pathable.com/meetings/217113"><span style="color:green">IUFoST</span></a>).  
 
