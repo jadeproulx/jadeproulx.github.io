@@ -10,7 +10,7 @@ image:
 
 |  **Coursera** |  **Cornell** |  
 | :----------------------------------------------------------: | :----------------------------------------------------------: |  
-| ![Learn to Program: The Fundamentals](http://jadeproulx.com/images/learning-code-fundamentals.png) |   
+| ![Learn to Program: The Fundamentals](http://jadeproulx.com/images/learning-code-fundamentals.png) | ![Dr Java](http://jadeproulx.com/images/drjava.png) |    
 | Learn to Program: The Fundamentals | [<span style="color:green">CS 1130</span>](http://www.cs.cornell.edu/courses/cs1130/2013sp/about/overview.php) |
 | *University of Toronto* | Transition to OO Programming in Java | 
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Learn-to-Program-the-Fundamentals.pdf)] | *Cornell University* |
