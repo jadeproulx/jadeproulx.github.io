@@ -8,7 +8,7 @@ image:
   feature: white.png
 ---
 
-## Coursera
+|## Coursera
 
 ![Learn to Program: The Fundamentals](http://jadeproulx.com/images/learning-code-fundamentals.png)  
 Learn to Program: The Fundamentals  
@@ -28,6 +28,10 @@ The Data Scientist's Toolbox
 ![R-Programming](http://jadeproulx.com/images/r-programming.jpg)  
 R-Programming  
 *Johns Hopkins University*  
-[[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)]
+[[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)]|
+
+## Cornell
+
+bla bla bla bla
 
 
