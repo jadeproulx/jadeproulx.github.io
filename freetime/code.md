@@ -16,14 +16,14 @@ image:
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Learn-to-Program-the-Fundamentals.pdf)] | SX | 
 
 | ![Learn to Program: Crafting Quality Code](http://jadeproulx.com/images/learning-craft-code.png) | ![Data Structures and Abstractions](http://jadeproulx.com/images/java.jpg) |  
-| Learn to Program: Crafting Quality Code | [<span style="color:green">CS 2110</span>](http://www.cs.cornell.edu/courses/cs2110/2013sp/courseinfo.html#about):Object-Oriented Programming and Data Structures |  
+| Learn to Program: Crafting Quality Code | [<span style="color:green">CS 2110</span>](http://www.cs.cornell.edu/courses/cs2110/2013sp/courseinfo.html#about): Object-Oriented Programming and Data Structures |  
 | *University of Toronto* |  *Cornell University* |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)] | C | 
 
 | ![The Data Scientist's Toolbox](http://jadeproulx.com/images/data-scientist-toolbox.jpg) |  
-| The Data Scientist's Toolbox |  
-| *Johns Hopkins University* | 
-| [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Data-scientist-toolbox.pdf)] |
+| The Data Scientist's Toolbox |  STSCI 4060: Introduction to High Performance Computing Tools and Concepts |
+| *Johns Hopkins University* | *Cornell University* |
+| [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Data-scientist-toolbox.pdf)] | A+ |
 
 | ![R-Programming](http://jadeproulx.com/images/r-programming.jpg)  | 
 | R-Programming  |
