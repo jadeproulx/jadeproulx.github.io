@@ -18,7 +18,7 @@ While a lot of attention is given to the risks associated with consuming raw mil
 
 Of particular interest are questions such as:  
 
-1. *How do pathogens of specific interest to the cheese industry respond to PL treatments?*
+1. *How do pathogens of specific interest to the cheese industry respond to PL treatment?*
 2. *How do different cheeses' surface topography influence the effectiveness of PL treatment?*
 2. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*
 3. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?* 
