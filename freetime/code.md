@@ -20,7 +20,7 @@ image:
 | *University of Toronto* |  Object-Oriented Programming and Data Structures |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)] | *Cornell University* |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |   
-| ![The Data Scientist's Toolbox](http://jadeproulx.com/images/data-scientist-toolbox.jpg) |  
+| ![The Data Scientist's Toolbox](http://jadeproulx.com/images/data-scientist-toolbox.jpg) | ![Python](http://jadeproulx.com/images/python.png)  
 | The Data Scientist's Toolbox |  [<span style="color:green">STSCI 4060</span>](http://courses.cornell.edu/preview_course_nopop.php?catoid=12&coid=124111) |
 | *Johns Hopkins University* | Introduction to High Performance Computing Tools and Concepts |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Data-scientist-toolbox.pdf)] | *Cornell University* | 
