@@ -12,9 +12,7 @@ image:
 </div>
 
 
-<div id="contentframe" style="position:relative; top: 0px; left: 250px;">
-<iframe width="480" height="270" src="http://jadeproulx.com/images/popples-package.png"</iframe>
-</div>
+![Popples](http://jadeproulx.com/images/popples-package.png) sdf as;odifj a;soidjf ;aosidjf 
 
 
 
