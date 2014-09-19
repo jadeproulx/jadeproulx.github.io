@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 image: 
   feature: jade-wide-10.jpg
   credit:  Alex Litoiu 
-  creditlink: http://alitoiu.com 
+  creditlink: http://www.alitoiu.com 
   thumb: jade-logo.png
 ---
 
