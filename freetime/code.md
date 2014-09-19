@@ -30,8 +30,9 @@ image:
 | *Johns Hopkins University*  | Data Mining & Machine Learning |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)] |  |  
 
-
-
-Oh... And I also made [<span style="color:green">this website</span>](https://github.com/jadeproulx/jadeproulx.github.io) using [<span style="color:green">Github Pages</span>](https://pages.github.com)!
+  
+    
+      
+      Oh... And I also made [<span style="color:green">this website</span>](https://github.com/jadeproulx/jadeproulx.github.io) using [<span style="color:green">Github Pages</span>](https://pages.github.com)!
 
 
