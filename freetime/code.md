@@ -7,6 +7,8 @@ excerpt:
 image:
   feature: white.png
 ---
+There is a multitude of resources to learn how to program online, but [<span style="color:green">Coursera</span>](https://www.coursera.org) is my favourite. In Graduate School, I also have the opportunity to take CS classes for credit at [<span style="color:green">Cornell</span>](http://www.cornell.edu) to build on the basics that I learn using the Coursera classes.
+
 
 | **Coursera** | **Cornell** |   
 | :----------------------------------------------------------: | :----------------------------------------------------------: |  
