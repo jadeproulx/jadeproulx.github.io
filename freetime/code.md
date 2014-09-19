@@ -25,7 +25,7 @@ image:
 | *Johns Hopkins University* | Introduction to High Performance Computing Tools and Concepts |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Data-scientist-toolbox.pdf)] | *Cornell University* | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |  
-| ![R-Programming](http://jadeproulx.com/images/r-programming.jpg)  | 
+| ![R-Programming](http://jadeproulx.com/images/r-programming.jpg) | ![Machine learning](http://jadeproulx.com/images/machine_learning.jpg) | 
 | R-Programming  | [<span style="color:green">STSCI 4740</span>](http://courses.cornell.edu/preview_course_nopop.php?catoid=12&coid=97660) |
 | *Johns Hopkins University*  | Data Mining & Machine Learning |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)] | *Cornell University* |  
