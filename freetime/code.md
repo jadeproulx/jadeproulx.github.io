@@ -32,6 +32,6 @@ image:
 
 
 
-Oh... And I also made this website using [<span style="color:green">Github Pages</span>](https://pages.github.com)!
+Oh... And I also made [<span style="color:green">this website</span>](https://github.com/jadeproulx/jadeproulx.github.io) using [<span style="color:green">Github Pages</span>](https://pages.github.com)!
 
 
