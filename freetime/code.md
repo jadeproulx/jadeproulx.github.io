@@ -10,7 +10,7 @@ image:
 
 |  **Coursera** |  **Cornell** |
 
-| ![Learn to Program: The Fundamentals](http://jadeproulx.com/images/learning-code-fundamentals.png) | ![CS 2110](http://www.cs.cornell.edu/courses/cs2110/2013sp/courseinfo.html#about): Object-Oriented Programming and Data Structures | 
+| ![Learn to Program: The Fundamentals](http://jadeproulx.com/images/learning-code-fundamentals.png) | [CS 2110](http://www.cs.cornell.edu/courses/cs2110/2013sp/courseinfo.html#about) : Object-Oriented Programming and Data Structures | 
 | Learn to Program: The Fundamentals |   
 | *University of Toronto* |  
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Learn-to-Program-the-Fundamentals.pdf)] |  
