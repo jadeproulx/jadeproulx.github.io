@@ -12,7 +12,9 @@ My research focuses on finding applied solutions to the big challenges facing th
 ___ 
 
 ## Light-based treatments for microbial control on cheese surface
-Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both <a href="http://www.cdc.gov/listeria/outbreaks/cheese-09-12/index.html"><span style="color:green">food safety issues</span></a> and <a href="http://www.huffingtonpost.com/2010/06/22/blue-mozzarella-investiga_n_618484.html"><span style="color:green">significant losses</span></a> due to spoilage. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light (PL), a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
+Cheese products made from pasteurized milk are susceptible to post-processing surface contamination that can lead to both <a href="http://www.cdc.gov/listeria/outbreaks/cheese-09-12/index.html"><span style="color:green">food safety issues</span></a> and <a href="http://www.huffingtonpost.com/2010/06/22/blue-mozzarella-investiga_n_618484.html"><span style="color:green">significant losses</span></a> due to spoilage. 
+![Cheese outbreak data](http://jadeproulx.com/images/cheese_outbreaks.png)
+The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) in the area of Food Safety Engineering involves investigating whether Pulsed Light (PL), a non-thermal, non-destructive, and chemical-free treatment, could be a viable solution to address this issue. Of particular interest are questions such as:  
 
 1. *How do different microorganisms respond to PL treatments?*  
 2. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?*  
