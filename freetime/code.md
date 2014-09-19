@@ -8,7 +8,7 @@ image:
   feature: white.png
 ---
 
-|## Coursera
+| ## Coursera
 
 ![Learn to Program: The Fundamentals](http://jadeproulx.com/images/learning-code-fundamentals.png)  
 Learn to Program: The Fundamentals  
@@ -32,6 +32,6 @@ R-Programming
 
 ## Cornell
 
-bla bla bla bla
+bla bla bla bla|
 
 
