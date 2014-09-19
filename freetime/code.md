@@ -15,7 +15,7 @@ image:
 | *University of Toronto* | Transition to OO Programming in Java | 
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Learn-to-Program-the-Fundamentals.pdf)] | *Cornell University* |  
 | :----------------------------------------------------------: | :----------------------------------------------------------: |  
-| ![Learn to Program: Crafting Quality Code](http://jadeproulx.com/images/learning-craft-code.png) | ![Data Structures and Abstractions](http://jadeproulx.com/images/java.jpg) |  
+| ![Learn to Program: Crafting Quality Code](http://jadeproulx.com/images/learning-craft-code.png) | ![Eclipse](http://jadeproulx.com/images/eclipse.png) |  
 | Learn to Program: Crafting Quality Code | [<span style="color:green">CS 2110</span>](http://www.cs.cornell.edu/courses/cs2110/2013sp/courseinfo.html#about) |  
 | *University of Toronto* |  Object-Oriented Programming and Data Structures |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)] | *Cornell University* |  
