@@ -12,7 +12,7 @@ image:
 </div>
 
 
-![Popples](http://jadeproulx.com/images/popples-package.png) sdf as;odifj a;soidjf ;aosidjf 
+![Popples](http://jadeproulx.com/images/popples-package.png)  
 
 
 
