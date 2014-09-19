@@ -21,14 +21,14 @@ image:
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Crafting-Quality-Code.pdf)] | C | 
 
 | ![The Data Scientist's Toolbox](http://jadeproulx.com/images/data-scientist-toolbox.jpg) |  
-| The Data Scientist's Toolbox |  STSCI 4060: Introduction to High Performance Computing Tools and Concepts |
+| The Data Scientist's Toolbox |  [<span style="color:green">STSCI 4060</span>](http://courses.cornell.edu/preview_course_nopop.php?catoid=12&coid=124111): Introduction to High Performance Computing Tools and Concepts |
 | *Johns Hopkins University* | *Cornell University* |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate_Data-scientist-toolbox.pdf)] | A+ |
 
 | ![R-Programming](http://jadeproulx.com/images/r-programming.jpg)  | 
-| R-Programming  |
-| *Johns Hopkins University*  | 
-| [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)] |
+| R-Programming  | [<span style="color:green">STSCI 4740</span>](http://courses.cornell.edu/preview_course_nopop.php?catoid=12&coid=97660): Data Mining & Machine Learning |
+| *Johns Hopkins University*  | *Cornell University*
+| [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)] | In progress |
 
 
 
