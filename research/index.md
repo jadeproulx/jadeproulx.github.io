@@ -16,11 +16,11 @@ A lot of attention is given to the risks associated with consuming raw milk chee
 
 The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) for my Masters thesis involves investigating whether Pulsed Light (PL), a non-thermal, non-destructive, and chemical-free treatment, could be applied as a terminal kill-step in processing and retail environments to address this issue. The FDA has approved the use of PL technology since 1996 ([<span style="color:green">21 CFR 179.41</span>](http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=179.41)) and it is already being used commercially to sterilize food contact surfaces such as [<span style="color:green">bottle caps</span>](http://www.claranor.com/sterilization-of-capping-systems). However, it is not currently being used on food products directly because their composition and surface characteristics vary way more than pure plastic polymers, thus making PL effectiveness differ from one commodity to another. This element of complexity necessitates thorough testing every time PL is considered for a new food application, and my work has focused on evaluating how different process parameters and treatment conditions affect PL effectiveness on cheese surface, specifically. Of particular interest are questions such as:  
 
-1. *How do different microorganisms respond to PL treatments?*  
-2. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?*  
-3. *How does the cheese's surface topography influence the effectiveness of different PL treatments?*  
-4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
-5. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
+1. *How do pathogens of specific interest to the cheese industry respond to PL treatments?*
+2. *How do different cheeses' surface topography influence the effectiveness of PL treatment?*
+2. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*
+3. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?* 
+4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  .   
 6. *How does PL compare to other available light-based treatments such as continuous UV-light and LED blue light?*
 
 In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences (<a href="http://www.jtmtg.org/JAM/2014/abstracts/0325-0333.pdf"><span style="color:green">ADSA</span></a>, <a href="https://iufost2014.pathable.com/meetings/217113"><span style="color:green">IUFoST</span></a>).  
