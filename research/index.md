@@ -39,7 +39,7 @@ Glycerol has already been largely studied as an indicator of triglyceride levels
 ___  
 
 ## FTIR spectroscopic analysis of a cookie model system
-In 2010, I was an undergraduate volunteer researcher in the lab of [<span style="color:green">Dr. Ashraf Ismail</span>](http://www.mcgill.ca/foodscience/staff-and-research/ashraf-ismail) who is the co-director of the McGill IR Group. His lab is mostly involved in the investigation of food systems at the molecular level. 
+In 2010, I was an undergraduate volunteer researcher in the lab of [<span style="color:green">Dr. Ashraf Ismail</span>](http://www.mcgill.ca/foodscience/staff-and-research/ashraf-ismail) who is the co-director of the [<span style="color:green">McGill IR Group</span>](http://www.mcgill.ca/foodscience/mcgill-ir-group). His lab is mostly involved in the investigation of food systems at the molecular level. 
 
 Whey proteins are a by-product of cheese making and (...)
 I helped PhD Candidate Diana Valtierra Rodriguez analyze a cookie model system containing high levels of &beta;-lactoglobulin and &alpha;-lactalbumin using ATR-FTIR spectroscopy, in the hope of better understanding the structure-functionality relationship of these readily available milk proteins.
