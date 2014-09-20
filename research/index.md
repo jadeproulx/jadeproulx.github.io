@@ -20,9 +20,9 @@ By designing and conducting appropriate inactivation studies, I tried to answer 
 1. *How do pathogens of specific interest to the cheese industry respond to PL treatment?*  
 2. *How do different cheeses' surface topography influence the effectiveness of PL treatment?*  
 3. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
-4. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?* 
-4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
-5. *How does PL compare to other available light-based treatments such as continuous UV-light and blue LEDs?*  
+4. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?*  
+5. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
+6. *How does PL compare to other available light-based treatments such as continuous UV-light and blue LEDs?*  
 I presented my findings at 2 academic conferences, <a href="http://jadeproulx.com/publications/#ADSA"><span style="color:green">ADSA</span></a> and <a href="http://jadeproulx.com/publications/#IUFoST"><span style="color:green">IUFoST</span></a>, and 2 journal articles reporting my results are currently in the works.  
 
 ___    
