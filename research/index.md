@@ -41,8 +41,9 @@ ___
 ## FTIR spectroscopic analysis of a cookie model system
 In 2010, I was an undergraduate volunteer researcher in the lab of [<span style="color:green">Dr. Ashraf Ismail</span>](http://www.mcgill.ca/foodscience/staff-and-research/ashraf-ismail) who is the co-director of the [<span style="color:green">McGill IR Group</span>](http://www.mcgill.ca/foodscience/mcgill-ir-group). His lab is mostly involved in the investigation of food systems at the molecular level. 
 
-Whey proteins are a by-product of cheese making and (...)
-I helped PhD Candidate Diana Valtierra Rodriguez analyze a cookie model system containing high levels of &beta;-lactoglobulin and &alpha;-lactalbumin using ATR-FTIR spectroscopy, in the hope of better understanding the structure-functionality relationship of these readily available milk proteins.
+Whey proteins, a by-product of cheese production, are readily available and make great protein supplements. In conjunction with the sky-rocketing demand for high-protein food products, there is a need to better understand how food systems react when being supplemented with high amounts of these specific proteins. 
 
-There is an increasing demand for high-protein food products where the consumers' mentality is "the more protein, the better". However, there is a limit to how much protein a dough system can hold without losing its characteristic rheological and organoleptic properties. Milk proteins, particularly whey proteins such as &beta;-lactoglobulin and &alpha;-lactalbumin, are readily available and make great protein supplements.
+I helped PhD Candidate Diana Valtierra Rodriguez analyze a cookie model system containing high levels of &beta;-lactoglobulin and &alpha;-lactalbumin using ATR-FTIR spectroscopy, in the hope of better understanding the structure-functionality relationship of these readily available milk proteins. The use of Attenuated Total Reflectance (ATR)-FTIR spectroscopy allows for the analysis of solid samples with minimal preparation. My work thus consisted in preparing simple cookie doughs with varying amounts of whey protein and analyze the dough material as well as the baked cookie using ATR-FTIR spectroscopy.  
+
+
 
