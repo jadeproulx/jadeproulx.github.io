@@ -7,7 +7,7 @@ image:
   feature: plates1.jpg
   thumb: jade-logo.png
 ---
-My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing residue-free, light-based surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its <a href="#sodium">**sodium reduction**</a> targets and understanding the structure-functionality relationship of <a href="#protein">**under-utilized proteins**</a>.  
+My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its <a href="#sodium">**sodium reduction**</a> targets and understanding the structure-functionality relationship of <a href="#protein">**under-utilized proteins**</a>.  
 
 ___ 
 
