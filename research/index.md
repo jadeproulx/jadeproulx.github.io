@@ -23,7 +23,7 @@ While a lot of attention is given to the risks associated with consuming raw mil
 4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  .   
 6. *How does PL compare to other available light-based treatments such as continuous UV-light and blue LEDs?*
 
-In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences, <a href="http://jadeproulx.com/publications#ADSA"><span style="color:green">ADSA</span></a> and <a href="http://jadeproulx.com/publications/#IUFoST"><span style="color:green">IUFoST</span></a>.  
+In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences, <a href="http://jadeproulx.com/publications/#ADSA"><span style="color:green">ADSA</span></a> and <a href="http://jadeproulx.com/publications/#IUFoST"><span style="color:green">IUFoST</span></a>.  
 
 ___    
 
