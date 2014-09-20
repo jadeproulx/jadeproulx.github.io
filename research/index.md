@@ -7,7 +7,7 @@ image:
   feature: plates1.jpg
   thumb: jade-logo.png
 ---
-My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to <a name="PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its **sodium reduction** targets and understanding the structure-functionality relationship of **under-utilized proteins**.  
+My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its **sodium reduction** targets and understanding the structure-functionality relationship of **under-utilized proteins**.  
 
 ___ 
 
