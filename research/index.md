@@ -35,7 +35,7 @@ My undergraduate research thesis, done under the supervision of [<span style="co
 ___  
 
 ## <a name="protein">ATR-FTIR spectroscopic analysis of a cookie model system</a>
-FTIR Spectroscopy is a well-established technique to analyze matter at the molecular level but can sometimes require pretty involved sample preparation procedures, especially when it comes to solid, low-transmittance materials like food. Attenuated Total Reflectance-Fourier Transform Infrared (ATR-FTIR) spectroscopy circumvents this limitation and opens new possibilities, such as analyzing the molecular changes occurring when heating uniform, solid foods like a dough.  
+FTIR Spectroscopy is a well-established technique to analyze matter at the molecular level but can sometimes require pretty involved sample preparation procedures, especially when it comes to solid, low-transmittance materials like food. Attenuated Total Reflectance-Fourier Transform Infrared (ATR-FTIR) spectroscopy circumvents this limitation and opens new possibilities, such as analyzing the molecular changes occurring when heating solid foods like a dough, for example.  
 
 
 Whey proteins (principally &alpha;-lactalbumin and  &beta;-lactoglobulin), which not so long ago were considered as a waste product of cheese production, are now <a href="https://www.usdec.org/Products/content.cfm?ItemNumber=82497&navItemNumber=82256"><span style="color:green">readily available</span></a> due to much improved industrial isolation and purification techniques. 
