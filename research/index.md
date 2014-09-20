@@ -7,7 +7,7 @@ image:
   feature: plates1.jpg
   thumb: jade-logo.png
 ---
-My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its **sodium reduction** targets and understanding the structure-functionality relationship of **under-utilized proteins**.  
+My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing energy-efficient surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its <a href="#sodium">**sodium reduction**</a> targets and understanding the structure-functionality relationship of <a href="#protein">**under-utilized proteins**</a>.  
 
 ___ 
 
@@ -27,7 +27,7 @@ In the course of this work, I have supervised 6 undergraduates individually and 
 
 ___    
 
-## Quantitative analysis of a salt enhancer's uptake by potatoes
+## <a name="sodium">Quantitative analysis of a salt enhancer's uptake by potatoes</a>
 Hypertension is a major cause of cardiovascular disease and has been <a href="http://www.who.int/dietphysicalactivity/Salt_Report_VC_april07.pdf"><span style="color:green">identified by the WHO</span></a> as the leading preventable risk factor for death in the world. With such claims, <a href="http://www.hc-sc.gc.ca/fn-an/legislation/guide-ld/2012-sodium-reduction-indust-eng.php"><span style="color:green">the food industry is under tremendous pressure</span></a> to reduce the sodium content of its products. 
 
 One way the food industry is tackling this challenge is by replacing part of the sodium with flavor systems containing salt enhancers. However, coming up with a salt enhancer formulation is only part of the solution: the formulation must also come with a proven quantitative analytical method to ensure every batch using this ingredient will offer a consistent saltiness. Few flavour compounds have already been studied as markers for quantitative analytical purposes. Hence, the most suitable way to determine how much of a complex salt enhancer mixture has been absorbed by a food matrix is to supplement it with a suitable marker. 
@@ -36,7 +36,7 @@ Glycerol has already been largely studied as an indicator of triglyceride levels
 
 ___  
 
-## ATR-FTIR spectroscopic analysis of a cookie model system
+## <a name="protein">ATR-FTIR spectroscopic analysis of a cookie model system</a>
 Not so long ago, the whey produced during the cheesemaking process was considered a waste product. Due to significant technological progress in terms of isolation and purification techniques at an industrial scale, the proteins contained in whey, principally &alpha;-lactalbumin and  &beta;-lactoglobulin, are now readily available to be used as supplements, which goes hand-in-hand with the current high-demand for sustainable, high-protein food products. 
 
 proteins do not all behave the same in food matrices, and their functionality is mainly dictated by their structure. There is a need to better understand how food systems react when supplemented with high amounts of these specific proteins instead of making formulations based on trial and error. Attenuated Total Reflectance (ATR)-FTIR spectroscopy allows for the analysis of solid samples with minimal preparation.
