@@ -14,6 +14,8 @@ image:
 
 ## Journal Articles
 
+*In progress*
+
 ## Posters
 
 * **Proulx, J.**, Sullivan, G., Marostegan F., Paradis, K., Hsu, L., Moraru, C. Effectiveness of Pulsed Light for Microbial Control on Cheese Surface. *17th World Congress of Food Science and Technology (IUFoST 2014)*. Montreal, Quebec, CAN, August 17-21. [[<span style=" color:green">pdf</span>](https://dl.dropboxusercontent.com/u/51364198/Poster_IUFoST.pdf)]
