@@ -37,7 +37,7 @@ Glycerol has already been largely studied as an indicator of triglyceride levels
 ___  
 
 ## FTIR spectroscopic analysis of a cookie model system
-Not so long ago, the whey that was produced during the cheesemaking process was considered a waste product. Due to significant technological progress in terms of isolation and purification techniques at an industrial scale, the milk proteins contained in whey, principally &alpha;-lactalbumin and  &beta;-lactoglobulin, are now readily available to be used as supplements, which goes hand-in-hand with the current high-demand for sustainable, high-protein food products. 
+Not so long ago, the whey produced during the cheesemaking process was considered a waste product. Due to significant technological progress in terms of isolation and purification techniques at an industrial scale, the milk proteins contained in whey, principally &alpha;-lactalbumin and  &beta;-lactoglobulin, are now readily available to be used as supplements, which goes hand-in-hand with the current high-demand for sustainable, high-protein food products. 
 
 However, proteins do not all behave the same in food matrices, and their functionality is mainly dictated by their structure. Before whey proteins can be added in amounts sufficient to  Before it can be used  there is a need to better understand how food systems react when being supplemented with high amounts of these specific proteins. 
 
