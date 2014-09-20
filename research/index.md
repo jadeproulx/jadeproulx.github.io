@@ -30,7 +30,7 @@ In the course of this work, I have supervised 6 undergraduates individually and 
 ___    
 
 ## Quantitative analysis of a salt enhancer's uptake by potatoes
-Hypertension is a major cause of cardiovascular disease, and has been <a href="http://www.who.int/dietphysicalactivity/Salt_Report_VC_april07.pdf"><span style="color:green">identified by the WHO</span></a> as the leading preventable risk factor for death in the world. With such claims, <a href="http://www.hc-sc.gc.ca/fn-an/legislation/guide-ld/2012-sodium-reduction-indust-eng.php"><span style="color:green">the food industry is under tremendous pressure</span></a> to reduce the sodium content of its products. 
+Hypertension is a major cause of cardiovascular disease and has been <a href="http://www.who.int/dietphysicalactivity/Salt_Report_VC_april07.pdf"><span style="color:green">identified by the WHO</span></a> as the leading preventable risk factor for death in the world. With such claims, <a href="http://www.hc-sc.gc.ca/fn-an/legislation/guide-ld/2012-sodium-reduction-indust-eng.php"><span style="color:green">the food industry is under tremendous pressure</span></a> to reduce the sodium content of its products. 
 
 One way the food industry is tackling this challenge is by replacing part of the sodium with flavor systems containing salt enhancers. However, coming up with a salt enhancer formulation is only part of the solution: the formulation must also come with a proven quantitative analytical method to ensure every batch using this ingredient will offer a consistent saltiness. Few flavour compounds have already been studied as markers for quantitative analytical purposes. Hence, the most suitable way to determine how much of a complex salt enhancer mixture has been absorbed by a food matrix is to supplement it with a suitable marker. 
 
@@ -39,11 +39,9 @@ Glycerol has already been largely studied as an indicator of triglyceride levels
 ___  
 
 ## FTIR spectroscopic analysis of a cookie model system
-In 2010, I was an undergraduate volunteer researcher in the lab of [<span style="color:green">Dr. Ashraf Ismail</span>](http://www.mcgill.ca/foodscience/staff-and-research/ashraf-ismail) who is the co-director of the [<span style="color:green">McGill IR Group</span>](http://www.mcgill.ca/foodscience/mcgill-ir-group). His lab is mostly involved in the investigation of food systems at the molecular level. 
-
 Whey proteins, a by-product of cheese production, are readily available and make great protein supplements. In conjunction with the sky-rocketing demand for high-protein food products, there is a need to better understand how food systems react when being supplemented with high amounts of these specific proteins. 
 
-I helped PhD Candidate Diana Valtierra Rodriguez analyze a cookie model system containing high levels of &beta;-lactoglobulin and &alpha;-lactalbumin using ATR-FTIR spectroscopy, in the hope of better understanding the structure-functionality relationship of these readily available milk proteins. The use of Attenuated Total Reflectance (ATR)-FTIR spectroscopy allows for the analysis of solid samples with minimal preparation. My work thus consisted in preparing simple cookie doughs with varying amounts of whey protein and analyze the dough material as well as the baked cookie using ATR-FTIR spectroscopy.  
+In 2010, I was an undergraduate volunteer researcher in the lab of [<span style="color:green">Dr. Ashraf Ismail</span>](http://www.mcgill.ca/foodscience/staff-and-research/ashraf-ismail) who is the co-director of the [<span style="color:green">McGill IR Group</span>](http://www.mcgill.ca/foodscience/mcgill-ir-group). His lab is mostly involved in the investigation of food systems at the molecular level. I helped PhD Candidate Diana Valtierra Rodriguez analyze a cookie model system containing high levels of &beta;-lactoglobulin and &alpha;-lactalbumin using ATR-FTIR spectroscopy, in the hope of better understanding the structure-functionality relationship of these readily available milk proteins. The use of Attenuated Total Reflectance (ATR)-FTIR spectroscopy allows for the analysis of solid samples with minimal preparation. My work thus consisted in preparing simple cookie doughs with varying amounts of whey protein and analyze the dough material as well as the baked cookie using ATR-FTIR spectroscopy.  
 
 
 
