@@ -25,8 +25,6 @@ While a lot of attention is given to the risks associated with consuming raw mil
 
 In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences, <a href="https://www.asas.org/meetings/jam2014/home"><span style="color:green">ADSA</span></a> and <a href="http://iufost2014.org"><span style="color:green">IUFoST</span></a>.  
 
-See related publications.
-
 ___    
 
 ## <a name="sodium">Quantitative analysis of a salt enhancer's uptake by potatoes</a>
