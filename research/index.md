@@ -16,13 +16,13 @@ The U.S. Food and Drug Administration ([<span style="color:green">FDA</span>](ht
 
 While a lot of attention is given to the risks associated with consuming raw milk cheeses, cheese products made from pasteurized milk are also a [<span style="color:green">non-negligible source of risk</span>](http://online.liebertpub.com/doi/pdf/10.1089/fpd.2013.1650) since they are susceptible to post-pasteurization surface contamination during cutting, handling, and packaging. So far, relying solely on [<span style="color:green">Good Manufacturing Practices</span>](http://www.fda.gov/food/guidanceregulation/cgmp/ucm2006830.htm) after pasteurization has had shortcomings and has lead to both <a href="http://www.cdc.gov/listeria/outbreaks/cheese-09-12/index.html"><span style="color:green">food safety issues</span></a> and <a href="http://www.huffingtonpost.com/2010/06/22/blue-mozzarella-investiga_n_618484.html"><span style="color:green">significant losses</span></a> due to spoilage and recalls. The work I conduct under the supervision of [<span style="color:green">Dr. Carmen Moraru</span>](http://blogs.cornell.edu/morarulab/) for my Masters thesis involves investigating whether PL could be applied as a terminal kill-step in processing and retail environments to address this issue. 
 
-By designing and conducting appropriate inactivation studies, I tried to answer the following questions:
-1. *How do pathogens of specific interest to the cheese industry respond to PL treatment?*
-2. *How do different cheeses' surface topography influence the effectiveness of PL treatment?*
-2. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*
-3. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?* 
-4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  .   
-6. *How does PL compare to other available light-based treatments such as continuous UV-light and blue LEDs?*
+By designing and conducting appropriate inactivation studies, I tried to answer the following questions:  
+1. *How do pathogens of specific interest to the cheese industry respond to PL treatment?*  
+2. *How do different cheeses' surface topography influence the effectiveness of PL treatment?*  
+3. *How does PL affect important physico-chemical quality attributes of cheese such as color, oxidative stability, vitamin content, and onset of molding?*  
+4. *Does the presence of LDPE-packaging diminish the bactericidal effect of PL?* 
+4. *Are hurdle strategies combining PL treatments with natural antimicrobials more effective than PL alone?*  
+5. *How does PL compare to other available light-based treatments such as continuous UV-light and blue LEDs?*
 
 In the course of this work, I have supervised 6 undergraduates individually and in teams, gained experience with multivariate experimental design (DOE) and results interpretation, and presented my findings at 2 academic conferences, <a href="http://jadeproulx.com/publications/#ADSA"><span style="color:green">ADSA</span></a> and <a href="http://jadeproulx.com/publications/#IUFoST"><span style="color:green">IUFoST</span></a>.  
 
