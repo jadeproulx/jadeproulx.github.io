@@ -7,7 +7,7 @@ excerpt:
 image:
   feature: white.png
 ---
-While I was president of the McGill Food Science Association, 
+While I was president of the <a href="http://mcgillfsa.wix.com/home"><span style="color:green">McGill Food Science Association</span></a>, we organized a <a href="http://www.mcgill.ca/macdonald/events/foodscisymposium"><span style="color:green">Gastronomy & Science Symposium</span></a> open to the public to celebrate the department's 25th Anniversary.  
 
 | ![Hervé This](http://jadeproulx.com/images/hervethis.jpg "Hervé This") | ![Maxime Bilet](http://jadeproulx.com/images/maximebilet.jpg "Maxime Bilet") | ![Joe Schwarcz](http://jadeproulx.com/images/joeschwarcz.jpg "Joe Schwarcz") | 
 
