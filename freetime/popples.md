@@ -18,6 +18,7 @@ The 2013-2014 Cornell team that I was a part of won <a href="http://www.news.cor
   
 <img style="float:right" src="http://jadeproulx.com/images/IFT-group.jpg"> 
   
+    
 *Popples* are an **excellent source of fiber**, contain **4g of proteins** per serving, and contain real apple micronutrients that are preserved by the use of <a href="http://www.foodengineeringmag.com/articles/engineering-r-d-supercritical-co-sub-2-sub-extrusion-opens-new-product-opportunities"><span style="color:green">supercritical-CO<sub>2</sub> extrusion</span></a>, a processing technique allowing extrusion to take place at lower temperatures than its conventional counterpart. 
 
 My role in the team was to take care of technical problem solving in terms of formulation design and scale-up, as well as ingredient and packaging sourcing.  
