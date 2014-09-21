@@ -13,5 +13,5 @@ image:
 
 We rock: http://www.news.cornell.edu/stories/2014/07/snappy-popples-cracks-first-place-national-food-expo
 
-<div style="float:left"><img src="http://jadeproulx.com/images/popples-package.png"></div> Bla bla bla bla bla af o;iajwe;foij a;owdifj ;aowiejf ;aoijf ;aoirg;oreaf ;oiefj;aowiejf ;aoir;aoubhr;aoiejf;aoiwejf;oawiejf;aoirb;aoirfn;oweijv;aoiernf;aowigva;owef;aoirjgva;oweifj ;awerf   
-<div style="float:right"><img src="http://jadeproulx.com/images/IFT-group.jpg"></div>
+<img style="float:left" src="http://jadeproulx.com/images/popples-package.png"> Bla bla bla bla bla af o;iajwe;foij a;owdifj ;aowiejf ;aoijf ;aoirg;oreaf ;oiefj;aowiejf ;aoir;aoubhr;aoiejf;aoiwejf;oawiejf;aoirb;aoirfn;oweijv;aoiernf;aowigva;owef;aoirjgva;oweifj ;awerf   
+<img style="float:right" src="http://jadeproulx.com/images/IFT-group.jpg">
