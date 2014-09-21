@@ -27,5 +27,7 @@ There is a multitude of online resources to learn how to program, but [<span sty
 | ![R-Programming](http://jadeproulx.com/images/r-programming.jpg) | ![Machine learning](http://jadeproulx.com/images/machine_learning.jpg) | 
 | R-Programming  | [<span style="color:green">STSCI 4740</span>](http://courses.cornell.edu/preview_course_nopop.php?catoid=12&coid=97660) |
 | [[<span style="color:green">Statement of Accomplishment</span>](https://dl.dropboxusercontent.com/u/51364198/Certificate-R-programming.pdf)] | Data Mining & Machine Learning |
-
-<div style="text-align:right">(Oh... And I also made [<span style="color:green">this website</span>](https://github.com/jadeproulx/jadeproulx.github.io) using [<span style="color:green">Github Pages</span>](https://pages.github.com)!) </div>
+  
+  
+    
+<div style="text-align:right">(Oh... And I also made <a href="https://github.com/jadeproulx/jadeproulx.github.io"><span style="color:green">this website</span></a> using <a href="https://pages.github.com"><span style="color:green">Github Pages</span></a>!)</div>
