@@ -7,7 +7,7 @@ excerpt:
 image:
   feature: white.png
 ---
-
+While I was president of the McGill Food Science Association, 
 
 | ![Hervé This](http://jadeproulx.com/images/hervethis.jpg "Hervé This") | ![Maxime Bilet](http://jadeproulx.com/images/maximebilet.jpg "Maxime Bilet") | ![Joe Schwarcz](http://jadeproulx.com/images/joeschwarcz.jpg "Joe Schwarcz") | 
 
