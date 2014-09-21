@@ -11,10 +11,7 @@ image:
 <iframe width="480" height="270" src="http://link.brightcove.com/services/player/bcpid1384193524001?bckey=AQ~~,AAABQKHY2bE~,ITTF-QY62MEfC5bna0hdbYgCt88POfF_&bctid=3706530605001" frameborder="1" allowfullscreen></iframe>
 </div>
 
+We rock: http://www.news.cornell.edu/stories/2014/07/snappy-popples-cracks-first-place-national-food-expo
 
-<div style="float:left"><img src="http://jadeproulx.com/images/popples-package.png"></div> Bla bla bla bla bla  
-
-
-
- 
-| ![Group photo](http://jadeproulx.com/images/IFT-group.jpg) |
+<div style="float:left"><img src="http://jadeproulx.com/images/popples-package.png"></div> Bla bla bla bla bla af o;iajwe;foij a;owdifj ;aowiejf ;aoijf ;aoirg;oreaf ;oiefj;aowiejf ;aoir;aoubhr;aoiejf;aoiwejf;oawiejf;aoirb;aoirfn;oweijv;aoiernf;aowigva;owef;aoirjgva;oweifj ;awerf   
+<div style="float:right"><img src="http://jadeproulx.com/images/IFT-group.jpg"></div>
