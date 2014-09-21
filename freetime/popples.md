@@ -12,7 +12,7 @@ image:
 </div>
 
 
-![Popples](http://jadeproulx.com/images/popples-package.png)  
+<div style="float:left"><img src="http://jadeproulx.com/images/popples-package.png"></div> Bla bla bla bla bla  
 
 
 
