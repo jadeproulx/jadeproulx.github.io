@@ -16,4 +16,4 @@ The event attracted over 400 attendees from within and outside the University, c
 
 > "I cannot express how proud I am of the accomplishment of this group to have organized such an exciting and memorable event. All was flawless and professional and you have put Food Science on the radar at McGill, something I was never able to do in any effective manner.  [...]  Again I want to thank and congratulate you all on the marvelous and professional event you have organized, which for me represented unexpected fruit from a seed planted many years ago, allowing me to leave with a sense of accomplishment and without any regrets."   
 >
-> <div style="text-align: right">Dr. Frederick R. van de Voort,  founding professor of the McGill Food Science Department*</div>
+> <div style="text-align: right">Dr. Frederick R. van de Voort,  founding professor of the McGill Food Science Department</div>
