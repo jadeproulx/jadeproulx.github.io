@@ -10,6 +10,16 @@ image:
   creditlink: http://pixabay.com/fr/faire-cuire-alimentation-cuisine-366875/
   thumb: jade-logo.png
 ---
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60206465-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 ## IFTSA & Mars Product Development Competition (2014) 
 As part of the Cornell team, I helped develop a novel extruded snack making use of apple pomace as a main ingredient, which is currently an under-utilized, nutrient-rich by-product of the juice and cider industry. <a href="http://jadeproulx.com/freetime/popples"><span style="color:green">Learn more</span></a>
