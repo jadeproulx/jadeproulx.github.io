@@ -7,6 +7,18 @@ excerpt:
 image:
   feature: white.png
 ---
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60206465-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 The <a href="http://tffchallenge.com"><span style="color:green">Thought for Food Challenge</span></a> (TFF) challenge consists in asking international student teams to come up with a bold solution to the question: **How are we going to feed 9 billion people by 2050?** 
 
 In 2013, I assembled a multidisciplinary <a href="http://tffchallenge.com/posts/text/detail/81/#.VB8YY_LeX2M"><span style="color:green">team</span></a> of students from the fields of Food Science, Information Science, Electrical Engineering, and Agricultural Economics to submit a project proposal focused on making more out of the food we already produce: food waste in the developed world is valued at **$168 billion**, out of which households account for $54 billion. **End consumers are the biggest wasters in the developed world**, and there are currently few initiatives to empower them even though they are the ultimate bottleneck to our economically driven food system. Household food waste is due to a convenience and an incentive barrier, and our project <a href="http://www.tooskee.com"><span style="color:green">Tooskee</span></a> tried to overcome both: 
