@@ -7,6 +7,18 @@ image:
   feature: plates1.jpg
   thumb: jade-logo.png
 ---
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60206465-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its <a href="#sodium">**sodium reduction**</a> targets and understanding the structure-functionality relationship of <a href="#protein">**under-utilized proteins**</a>.
 
 ___ 
