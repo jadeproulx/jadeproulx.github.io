@@ -7,6 +7,18 @@ excerpt:
 image:
   feature: white.png
 ---
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60206465-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 Food science is a fascinating field that is almost always misunderstood and very often misjudged, mostly because the way it is portrayed in the media blurs the line between the tools and their application. This is unfortunate because the same tools used to produce highly-processed, nutrient-poor convenience foods can also be used to preserve highly perishable, nutrient-dense commodities. There are interesting and innovative ideas in food processing that could help make our food system more energy efficient and bring healthier foods to a greater number of people, but their commercial adoption requires consumer acceptance and consumer education. 
 
 With that in mind, I decided to get involved and presented a panel-reviewed talk at the [<span style="color:green">2014 Roger Smith FoodTech Conference</span>](http://www.thefoodconference.com) in New York City, a conference open to the general public around the theme *Our Ambiguous Love, Hate, and Fear of Food Technologies*. I was part of a discussion titled *The Future is Now* where I talked about two novel, non-thermal food preservation technologies: High Pressure Processing and UV-Pasteurization.  
