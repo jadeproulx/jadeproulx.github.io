@@ -7,6 +7,18 @@ excerpt:
 image:
   feature: white.png
 ---
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60206465-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 There is a multitude of online resources to learn how to program, but [<span style="color:green">Coursera</span>](https://www.coursera.org) is my favourite. In Graduate School, I also have the opportunity to take CS classes for credit at [<span style="color:green">Cornell</span>](http://www.cornell.edu) to build on the basics that I learn using the Coursera classes. Here is what I have completed up to now:  
 
 
