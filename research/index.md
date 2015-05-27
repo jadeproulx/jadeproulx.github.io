@@ -19,7 +19,7 @@ image:
 
 </script>
 
-My research focuses on finding applied solutions to big challenges facing the food industry. I am currently developing surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its <a href="#sodium">**sodium reduction**</a> targets and understanding the structure-functionality relationship of <a href="#protein">**under-utilized proteins**</a>.
+My academic research experience focuses on finding applied solutions to some of the biggest challenges the food industry is facing. As a graduate student, I developed surface decontamination treatments to <a href="#PulsedLight">**prevent wasteful food recalls**</a>, while my undergraduate research experience involved helping the industry meet its <a href="#sodium">**sodium reduction**</a> targets and understanding the structure-functionality relationship of <a href="#protein">**under-utilized proteins**</a>.
 
 ___ 
 
